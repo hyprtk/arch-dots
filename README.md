@@ -37,9 +37,8 @@ Hyprland: In addition, you can switch the Waybar Template with SUPER + CTRL + T 
 ## Screenshots & Video
 
 Arch Linux
-![Model](https://github.com/hyprtk/arch-dots/blob/main/screenshots/screenshot-20231021-163804.png)
-![Model](https://github.com/hyprtk/arch-dots/blob/main/screenshots/screenshot-20231021-163834.png)
-![Model](https://github.com/hyprtk/arch-dots/blob/main/screenshots/screenshot-20231021-164005.png)
+![Model](https://github.com/hyprtk/arch-dots/blob/main/screenshots/screenshot-2026-04-21_13-02-05.png)
+![Model](https://github.com/hyprtk/arch-dots/blob/main/screenshots/screenshot-2026-04-21_13-04-49.png)
 
 Garuda
 ![Model](https://github.com/hyprtk/arch-dots/blob/main/screenshots/screenshot-2026-04-13_10-37-05.png)
